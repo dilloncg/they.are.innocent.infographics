@@ -1,0 +1,30 @@
+body{
+  margin: 0px;
+  background-color: rgba(0, 165, 157);
+}
+
+img{
+  margin-left: 40px;
+  height: 400px;
+}
+
+h1{
+  font-family: 'Patrick Hand', cursive;
+  text-align: left;
+  text-decoration: none;
+  font-size: 120px;
+  color: white;
+  margin-left: 20px;
+}
+
+a{
+  font-family: 'Patrick Hand', cursive;
+  text-align: left;
+  text-decoration: none;
+  font-size: 60px;
+  color: white;
+}
+
+a:hover{
+  color: rgba(255, 18, 109);
+}
